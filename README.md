@@ -14,4 +14,4 @@ To view or edit the project locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
+   git clone https://github.com/sabarirajan83/Dev-Portfolio.git
